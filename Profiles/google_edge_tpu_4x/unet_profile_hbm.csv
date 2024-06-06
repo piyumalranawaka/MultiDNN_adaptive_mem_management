@@ -1,0 +1,1 @@
+Layer,	H,	W,	R,	S,	C,	N,	T,	W_footprint,	I_footprint,	O_footprint,	Memory_cycles_w,	Memory_cycles_i,	Memory_cycles_o,	Memory_cycles,	Compute_cycles,	W_DRAM,	I_DRAM,	O_DRAM,	Total_DRAM,	Total_SRAM,	Total_MACs
